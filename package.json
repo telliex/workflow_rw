@@ -11,7 +11,7 @@
   "author": "Telliex",
   "license": "ISC",
   "devDependencies": {
-    "highlight.js": "^9.15.6",
+    "highlight.js": "^10.1.2",
     "markdown-it": "^8.4.2",
     "markdown-it-abbr": "^1.0.4",
     "markdown-it-attrs": "^2.3.2",
